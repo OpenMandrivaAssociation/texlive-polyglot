@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-polyglot
 Version:	20111103
-Release:	11
+Release:	12
 Summary:	TeXLive polyglot package
 Group:		Publishing
 URL:		http://tug.org/texlive
